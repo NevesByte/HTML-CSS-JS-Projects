@@ -1,16 +1,28 @@
-Resumo (PT-BR):  
-- Desenvolvimento de aplicações JavaScript e web com foco em prática de conceitos fundamentais:
-- Counter: implementação de lógica de incremento/decremento.
-- Formulário: manipulação de inputs e validação de dados.
-- Letreco (Wordle-like): jogo interativo com lógica de comparação de palavras.
-- Password Generator: geração de senhas seguras com critérios configuráveis.
-- Relógio Virtual: aplicação de tempo real com atualização dinâmica da interface.
-- Conjunto de projetos que demonstram domínio em JavaScript, manipulação de DOM, lógica de programação, interatividade e boas práticas de desenvolvimento frontend.
+Resumo (EN):
 
-Resumo (EN):  
-- Built practical JavaScript and web applications exploring core programming concepts:
-- Counter: increment/decrement logic.
-- Form Form: input handling and validation.
-- Letreco (Wordle-like): interactive word comparison game.
-- Password Generator: secure password creation with configurable rules.
-- Virtual Clock: real-time application with dynamic UI updates.
+- Secure password generation with configurable security rules and validation.
+- Efficient form handling with input validation and user interaction.
+- Next-generation JavaScript applications focused on practical learning.
+- Hands-on implementation of fundamental programming concepts.
+- Advanced DOM manipulation for dynamic and responsive interfaces.
+- Scalable frontend development following clean coding practices.
+- Enhanced user experience through interactive web applications.
+- Game-oriented logic implementation with the Wordle-like (Letreco) project.
+- User-focused interface updates with real-time rendering.
+- Reliable increment and decrement logic using the Counter project.
+- Adaptive application behavior with configurable features.
+- Validated user input processing and error handling.
+- Interactive frontend experiences powered by JavaScript.
+- Client-side programming using modern web technologies.
+- Thoughtful problem-solving through practical coding exercises.
+- Optimized application performance and code organization.
+- Reusable JavaScript logic and modular development practices.
+- Native browser APIs for dynamic functionality.
+- Extensible project architecture for future improvements.
+- Versatile web applications demonstrating different frontend concepts.
+- Engaging interfaces with responsive and interactive elements.
+- Structured development showcasing JavaScript, DOM manipulation, programming logic, and frontend best practices.
+- 1st project emphasizing Counter logic implementation.
+- 2nd project focused on Form handling and validation.
+- 3rd project featuring the Letreco (Wordle-like) game.
+- 4th project dedicated to Password Generator and Virtual Clock functionality.
